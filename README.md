@@ -1,4 +1,5 @@
 # 分享整理後的訓練資料集
+>有些有做資料擴增有些沒有 資料擴增檔名都會加 rotate 或 filp
 
 連結：<https://drive.google.com/drive/folders/1VYgXecKjg5YErqI3VTWRrwhbKwlCyJjN?usp=sharing>
 
