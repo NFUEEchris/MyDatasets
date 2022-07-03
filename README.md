@@ -2,7 +2,8 @@
 
 連結：<https://drive.google.com/drive/folders/1VYgXecKjg5YErqI3VTWRrwhbKwlCyJjN?usp=sharing>
 
-##資料集數量
+## 資料集數量
+
 |  物品   | 數量|
 |:------  | :---|
 | Can     | 1155|
@@ -12,3 +13,7 @@
 | HDPEM  |1025|
 | Mix |33|
 |Null|12|
+
+## reference
+1.<https://www.kaggle.com/datasets/moezabid/bottles-and-cans>
+2.<https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification>
