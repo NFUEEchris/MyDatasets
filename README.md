@@ -15,5 +15,7 @@
 |Null|12|
 
 ## reference
-1.<https://www.kaggle.com/datasets/moezabid/bottles-and-cans>
-2.<https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification>
+
+
+1. <https://www.kaggle.com/datasets/moezabid/bottles-and-cans>
+2. <https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification>
